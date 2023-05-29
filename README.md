@@ -5,4 +5,4 @@ https://wonseokan.tistory.com/10
 # 아키텍쳐
 <img src="https://github.com/Resell-platform/Modeling/assets/95980876/c64b88f0-7790-407d-8ab5-c05f08902d11" width="600" height="400"/>
 
-※ RF_MODEL은 사이즈가 400MB가 넘어 업로드하지 못하였습니다.
+※ **RF_MODEL**은 사이즈가 **400MB**가 넘어 업로드하지 못하였습니다.
